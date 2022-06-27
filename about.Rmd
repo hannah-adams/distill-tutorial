@@ -8,3 +8,17 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## About Me
+My name is **Hannah**, and I am a student at Williams College. I love to cook and spend time outdoors.
+
+## About the Project
+The title of my project is *Fuel efficiency and weight*. It is a plot about cars and their mileage per gallon. This project was completed as part of Kane's data science bootcamp.
+
+### Goals
+* In my project, I might like to explore abortion access and its importance.
+  + Since the SCOTUS reversal of Roe v. Wade was so recent, it may be difficult to find accurate data.
+* I also might like to explore environmental justice issues. Perhaps I would look into health outcomes in neighborhoods near Superfund sites.
+
+"This is data science"  
+~ Preceptor
+[Kane’s Free High School Data Science Bootcamp](https://bootcamp.davidkane.info)

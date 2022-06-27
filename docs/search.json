@@ -5,8 +5,8 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2022-06-27T17:27:11-05:00"
+      "contents": "\nAbout Me\nMy name is Hannah, and I am a student at Williams\nCollege. I love to cook and spend time outdoors.\nAbout the Project\nThe title of my project is Fuel efficiency and weight. It is\na plot about cars and their mileage per gallon. This project was\ncompleted as part of Kane’s data science bootcamp.\nGoals\nIn my project, I might like to explore abortion access and its\nimportance.\nSince the SCOTUS reversal of Roe v. Wade was so recent, it may be\ndifficult to find accurate data.\n\nI also might like to explore environmental justice issues. Perhaps I\nwould look into health outcomes in neighborhoods near Superfund\nsites.\n“This is data science”\n\nPreceptor Kane’s Free High\nSchool Data Science Bootcamp\n\n\n",
+      "last_modified": "2022-06-27T17:54:47-05:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "This is where I will describe my final project.\n",
       "author": [],
       "contents": "\n\n\n\n\n\n\n",
-      "last_modified": "2022-06-27T17:27:16-05:00"
+      "last_modified": "2022-06-27T17:54:53-05:00"
     }
   ],
   "collections": []
