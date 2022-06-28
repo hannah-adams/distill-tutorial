@@ -14,19 +14,11 @@ library(ggthemes)
 ```
 
 ```{r car-plot}
-mtcars  |>  
-    select(mpg, wt)  |> 
-    ggplot(aes(x=wt, y=mpg)) + 
-    geom_point() +
-    geom_smooth(method="lm",formula=y~x,se=FALSE) + 
-    theme_clean() +
-    labs(title="Fuel efficiency and weight",
-        subtitle="Heavier cars are less fuel efficient",
-        y="Miles per gallon",
-        x="Weight (1000s of lbs)",
-        caption="Henderson and Vellerma")
+car_plot <- read_rds(file="carplot.rds")
+car_plot
+```
 
-
-
+```{r image}
+knitr::include_graphics("images/car-plot.png")
 ```
 
